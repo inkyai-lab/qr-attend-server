@@ -37,7 +37,7 @@ const FORGOT_PASSWORD_WITH = {
   },
   EXPIRE_TIME: 15
 };
-const NO_OF_DEVICE_ALLOWED = 1;
+const NO_OF_DEVICE_ALLOWED = 5;
 
 module.exports = {
   JWT,
